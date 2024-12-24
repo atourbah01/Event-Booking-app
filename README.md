@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter event organisation and booking application based on dart makes use of firebase for data saving.
 
 A few resources to get you started if this is your first Flutter project:
 
